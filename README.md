@@ -109,7 +109,7 @@ AI Waste Classifier (TensorFlow.js)
 ## 📸 Screenshots
 _Add dashboard and system images here._
 | ![Software Dashboard](./SoftwareDashboard.png) |
-| ![Hardware Prototype](./ECOBIN.jpg) |
+| ![Hardware Prototype](./EcoBin.jpg) |
 
 ---
 
