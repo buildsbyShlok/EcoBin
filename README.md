@@ -1,4 +1,3 @@
-
 <h1 align="center">♻️ EcoBin</h1>
 
 <p align="center">
@@ -14,6 +13,13 @@ IoT • AI • Real-Time Dashboard • Smart Cities
 </p>
 
 ---
+## 🌐 Live Demo
+
+🚀 The project is deployed and live on **Netlify**! <br>
+👉 [**Visit the Website**](https://ecobin-1-6.netlify.app/)  
+
+---
+
 
 ## 🚀 Overview
 EcoBin is an **end-to-end smart waste management system** developed as part of **Smart India Hackathon (SIH)**.  
